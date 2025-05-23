@@ -18,6 +18,9 @@
 ![MATLAB](https://img.shields.io/badge/-MATLAB-0076A8?style=flat&logo=MathWorks&logoColor=white)
 ![RStudio](https://img.shields.io/badge/-RStudio-75AADB?style=flat&logo=rstudio&logoColor=white)
 ![Jupyter](https://img.shields.io/badge/-Jupyter-F37626?style=flat&logo=jupyter&logoColor=white)
-![MNE](./images/mne_logo.jpg)
-![SPM](./images/spm_logo.jpg)
-![Cedalion](./images/cedalion_logo.jpg)
+
+### 🧠 Neuroscience
+
+- ⚡️ MNE [EEG]
+- 🩻 SPM12 [fMRI]
+- 🚨 Cedalion [fNIRS]
