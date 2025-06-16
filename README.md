@@ -1,5 +1,5 @@
-- 👋 Hi, I’m Pavel
-- ⬅️ my actual brain AND my website ➡️ psyarov.github.io
+- 👋 Hi, I'm Pavel
+- ⬅️ That's my brain AND my that's my website ➡️ [psyarov.github.io](https://psyarov.github.io)
 - 🎓 MSc in Medical Neuroscience + Software Engineering at SoftUni
 - 🧠 Brain-Computer Interfaces enthusiast
 - 📩 pavel.syarov@charite.de
