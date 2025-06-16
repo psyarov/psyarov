@@ -1,4 +1,5 @@
-- 👋 Hi, I’m Pavel (and that is my actual brain)
+- 👋 Hi, I’m Pavel
+- ⬅️ my actual brain AND my website ➡️ psyarov.github.io
 - 🎓 MSc in Medical Neuroscience + Software Engineering at SoftUni
 - 🧠 Brain-Computer Interfaces enthusiast
 - 📩 pavel.syarov@charite.de
